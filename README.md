@@ -34,6 +34,3 @@ Compile e execute o projeto:
 -javac ProjetoSistemaDeInformacoesClimaticasEmTempoReal.java
 -java com.iagoRussi.ProjetoSistemaDeInformacoesClimaticasEmTempoReal
 
-Observações
--Certifique-se de não subir sua chave da API ao GitHub.
--A API retorna código 1006 quando a cidade não é encontrada.
